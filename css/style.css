@@ -651,4 +651,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 #footer a:hover {
 	color: #333;
 }
+@media (max-width: 400px) {
+  #footer {
+    width: 400px;
+    margin-right: 0px;
+  }
+}
 
